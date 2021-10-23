@@ -39,7 +39,7 @@ schutzstaffelxdd.createDay();
 ```
 <img src="https://komarev.com/ghpvc/?username=schutzstaffelxdd&label=Ziyaretçi%20Sayısı&color=552b75" alt="schutzstaffelxdd" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852913082321862706)](https://discord.com/users/852913082321862706
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852913082321862706)](https://discord.com/users/852913082321862706)
 
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
