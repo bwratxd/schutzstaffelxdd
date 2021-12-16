@@ -9,8 +9,7 @@ class schutzstaffel{
   }
 }
 ```
-<img src="https://komarev.com/ghpvc/?username=schutzstaffelxdd&label=Ziyaretçi%20Sayısı&color=552b75" alt="schutzstaffelxdd" />
-
+<img src="https://count.getloli.com/get/@:schutzstaffelxdd?theme=rule34" alt=":schutzstaffelxdd" />
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852913082321862706)](https://discord.com/users/852913082321862706)
 
 ## 🔧 Languages
